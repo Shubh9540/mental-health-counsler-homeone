@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Fonts */
+  --font-primary: var(--font-poppins), sans-serif;
+  --font-heading: Georgia, serif;
+
+  /* Global Colors — Lavender & Healing Purple Palette */
+  --color-bg-main: #ffffff;
+  --color-bg-card: #ffffff;
+  --color-bg-alt: #faf7fd;
+  --color-bg-decorative: #f3ebfa;
+  --color-primary: #24143a;
+  --color-primary-dark: #190c29;
+  --color-primary-light: #372056;
+  --color-accent: #6d28d9;
+  --color-accent-light: #e9d5ff;
+  --color-accent-muted: #9333ea;
+  --color-text: #374151;
+  --color-text-light: #6b7280;
+  --color-border: #ede4f7;
+  --color-header-sticky: #24143a;
+}
+
+body {
+  color: var(--color-text);
+  background-color: var(--color-bg-main);
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}

@@ -1,0 +1,567 @@
+{
+  "common": {
+    "fonts": {
+      "primary": "Poppins",
+      "heading": "Georgia"
+    },
+    "globalUI": {
+      "loadingText": "Loading...",
+      "notFoundText": "Page Not Found"
+    },
+    "Footer": {
+      "logo": "/main logo/logo.webp",
+      "logoAlt": "HealthCounselor Logo",
+      "brandTitle": "HealthCounselor",
+      "copyrightText": "Copyright © 2026 HealthCounselor. All rights reserved. Powered by Lestow",
+      "description": "We are here to help you feel better, handle daily stress, and find peace of mind with simple, friendly counseling.",
+      "hoursTitle": "Working Hours",
+      "hoursDays": "Mon - Sat:",
+      "hours": "9:00 AM - 7:00 PM\nSunday: Closed",
+      "socialLinks": [
+        {
+          "id": "fs1",
+          "icon": "FaFacebookF",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "id": "fs2",
+          "icon": "FaInstagram",
+          "url": "https://www.instagram.com"
+        },
+        {
+          "id": "fs3",
+          "icon": "FaLinkedinIn",
+          "url": "https://www.linkedin.com"
+        },
+        {
+          "id": "fs4",
+          "icon": "FaYoutube",
+          "url": "https://www.youtube.com"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "ql-home",
+          "label": "Home",
+          "url": "#"
+        },
+        {
+          "id": "ql-about",
+          "label": "About Us",
+          "url": "#about"
+        },
+        {
+          "id": "ql-services",
+          "label": "Services",
+          "url": "#services"
+        },
+        {
+          "id": "ql-why-choose-us",
+          "label": "Why Choose Us",
+          "url": "#why-choose-us"
+        },
+        {
+          "id": "ql-impact",
+          "label": "Impact",
+          "url": "#impact"
+        },
+        {
+          "id": "ql-team",
+          "label": "Team",
+          "url": "#team"
+        },
+        {
+          "id": "ql-gallery",
+          "label": "Gallery",
+          "url": "#gallery"
+        },
+        {
+          "id": "ql-testimonials",
+          "label": "Testimonials",
+          "url": "#testimonials"
+        },
+        {
+          "id": "ql-contact",
+          "label": "Contact Us",
+          "url": "#contact"
+        }
+      ],
+      "contactInfo": {
+        "address": "123 Main St, New York, NY, USA",
+        "phone": "+1 000000000",
+        "email": "info@xyz.com"
+      },
+      "col2Title": "Quick Navigation",
+      "col3Title": "Contact Details",
+      "backToTopText": "Back to Top"
+    }
+  },
+  "categories": {
+    "HealthCounselor": {
+      "sections": {
+        "Header": {
+          "variants": {
+            "HealthCounselorHeader2": {
+              "logo": "/main logo/logo.webp",
+              "logoAlt": "HealthCounselor Logo",
+              "navLinks": [
+                {
+                  "id": "nl-about",
+                  "label": "About Us",
+                  "url": "#about"
+                },
+                {
+                  "id": "nl-services",
+                  "label": "Services",
+                  "url": "#services"
+                },
+                {
+                  "id": "nl-why-choose-us",
+                  "label": "Why Choose Us",
+                  "url": "#why-choose-us"
+                },
+                {
+                  "id": "nl-impact",
+                  "label": "Impact",
+                  "url": "#impact"
+                },
+                {
+                  "id": "nl-team",
+                  "label": "Team",
+                  "url": "#team"
+                },
+                {
+                  "id": "nl-gallery",
+                  "label": "Gallery",
+                  "url": "#gallery"
+                },
+                {
+                  "id": "nl-testimonials",
+                  "label": "Testimonials",
+                  "url": "#testimonials"
+                }
+              ],
+              "contactButton": {
+                "text": "Contact Us",
+                "url": "#contact"
+              }
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "HealthCounselorHero2": {
+              "subtitle": "WE ARE HERE FOR YOU",
+              "title1": "Take a Step Towards",
+              "title2": "a Peaceful Life",
+              "description": "Talk to friendly counselors who listen without judgment. We help you deal with stress, handle daily worries, and feel happy again.",
+              "image1": "/other/banner.webp",
+              "button1": {
+                "text": "Book an Appointment",
+                "url": "#contact"
+              },
+              "button2": {
+                "text": "See How We Help",
+                "url": "#services"
+              }
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "HealthCounselorAboutUs2": {
+              "subtitle": "ABOUT OUR CARE",
+              "title1": "A safe and friendly place to",
+              "title2": "talk, heal, and grow.",
+              "description1": "Life can get busy and stressful at times. We provide a calm space where you can share your thoughts openly and get helpful, caring guidance.",
+              "description2": "Whether you are feeling sad, worried about work, or having family problems, we work with you patiently to help you feel your best.",
+              "imageMain": "/other/about.webp",
+              "yearsOfExperience": "12+",
+              "experienceLabel": "Years of Helping People Feel Better",
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "100% Private & Safe",
+                  "description": "Everything you share with our counselors stays completely private and secure.",
+                  "icon": "FaUserAlt"
+                },
+                {
+                  "id": "f2",
+                  "title": "Simple Step-by-Step Help",
+                  "description": "Easy tips and practical steps that fit your daily routine and bring peace.",
+                  "icon": "FaUsers"
+                }
+              ],
+              "button": {
+                "text": "Learn More About Us",
+                "url": "#services"
+              }
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "HealthCounselorServices2": {
+              "subtitle": "HOW WE CAN HELP",
+              "title1": "Simple Counseling for",
+              "title2": "Every Stage of Life",
+              "description": "Choose the support you need. We offer simple, friendly sessions to help you handle challenges and feel more peaceful.",
+              "services": [
+                {
+                  "id": "s1",
+                  "title": "Personal Counseling",
+                  "description": "One-on-one talks to help you feel calm, manage daily stress, and solve personal worries.",
+                  "image": "/other/service-1.webp",
+                  "icon": "FaUserAlt",
+                  "url": "#contact"
+                },
+                {
+                  "id": "s2",
+                  "title": "Couples Counseling",
+                  "description": "Simple ways to talk better, resolve disagreements, and bring happiness back to your relationship.",
+                  "image": "/other/service-2.webp",
+                  "icon": "FaUserFriends",
+                  "url": "#contact"
+                },
+                {
+                  "id": "s3",
+                  "title": "Kids & Teens Support",
+                  "description": "Gentle guidance to help children and teenagers handle school pressure, emotions, and friendships.",
+                  "image": "/other/service-3.webp",
+                  "icon": "FaChild",
+                  "url": "#contact"
+                },
+                {
+                  "id": "s4",
+                  "title": "Group Support",
+                  "description": "Meet friendly people who understand your feelings and grow together in a kind space.",
+                  "image": "/other/service-4.webp",
+                  "icon": "FaUsers",
+                  "url": "#contact"
+                },
+                {
+                  "id": "s5",
+                  "title": "Stress & Worry Relief",
+                  "description": "Learn easy daily habits and breathing exercises to quiet your mind and sleep better.",
+                  "image": "/other/service-5.webp",
+                  "icon": "FaSpa",
+                  "url": "#contact"
+                },
+                {
+                  "id": "s6",
+                  "title": "Work & Life Guidance",
+                  "description": "Clear support to handle job pressure, boost your confidence, and find a healthy balance.",
+                  "image": "/other/service-6.webp",
+                  "icon": "FaChartBar",
+                  "url": "#contact"
+                }
+              ]
+            }
+          }
+        },
+        "WhyChooseUs": {
+          "variants": {
+            "HealthCounselorWhyChooseUs2": {
+              "subtitle": "WHY CHOOSE US",
+              "title1": "Caring support that puts",
+              "title2": "your comfort first.",
+              "title3": "",
+              "subheading": "Friendly Guidance Whenever You Need It",
+              "description": "We make mental health care simple, welcoming, and easy to reach. You never have to face difficult moments alone.",
+              "image": "/other/choose.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaLaptopMedical",
+                  "title": "Online Sessions",
+                  "description": "Talk to our counselors from the comfort of your own home.",
+                  "url": "#contact"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaBrain",
+                  "title": "Easy Mood Check",
+                  "description": "Helpful talks to understand what is causing your stress.",
+                  "url": "#contact"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaUserMd",
+                  "title": "Trained Counselors",
+                  "description": "Friendly professionals who listen with kindness and care.",
+                  "url": "#contact"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaFileMedical",
+                  "title": "Personal Care Plan",
+                  "description": "Simple steps and practical advice made specifically for you.",
+                  "url": "#contact"
+                }
+              ]
+            }
+          }
+        },
+        "Counter": {
+          "variants": {
+            "HealthCounselorCounter2": {
+              "bgImage": "",
+              "items": [
+                {
+                  "id": "c1",
+                  "icon": "FaAward",
+                  "title": "Years of\nExperience",
+                  "number": 12,
+                  "suffix": "+",
+                  "label": "Years of\nTrusted Care"
+                },
+                {
+                  "id": "c2",
+                  "icon": "FaUsers",
+                  "title": "Caring\nCounselors",
+                  "number": 25,
+                  "suffix": "+",
+                  "label": "Friendly\nTherapists"
+                },
+                {
+                  "id": "c3",
+                  "icon": "FaComments",
+                  "title": "People\nHelped",
+                  "number": 10,
+                  "suffix": "K+",
+                  "label": "Happy\nClients"
+                },
+                {
+                  "id": "c4",
+                  "icon": "FaTasks",
+                  "title": "Sessions\nDone",
+                  "number": 15,
+                  "suffix": "K+",
+                  "label": "Support\nSessions"
+                }
+              ]
+            }
+          }
+        },
+        "Team": {
+          "variants": {
+            "HealthCounselorTeam2": {
+              "subtitle": "OUR TEAM",
+              "title1": "Meet Our Caring",
+              "title2": "Counselors",
+              "description": "Our friendly team is always here to listen, understand your story, and help you find peace of mind.",
+              "members": [
+                {
+                  "id": "t1",
+                  "name": "Dr. Priya Sharma",
+                  "role": "Lead Counselor",
+                  "image": "/other/team-1.webp"
+                },
+                {
+                  "id": "t2",
+                  "name": "Dr. Rahul Mehta",
+                  "role": "Couples & Family Specialist",
+                  "image": "/other/team-2.webp"
+                },
+                {
+                  "id": "t3",
+                  "name": "Dr. Neha Verma",
+                  "role": "Stress & Anxiety Counselor",
+                  "image": "/other/team-3.webp"
+                },
+                {
+                  "id": "t4",
+                  "name": "Dr. Aman Gupta",
+                  "role": "Mind & Wellness Coach",
+                  "image": "/other/team-4.webp"
+                }
+              ]
+            }
+          }
+        },
+        "Gallery": {
+          "variants": {
+            "HealthCounselorGallery2": {
+              "subtitle": "OUR SPACE",
+              "title1": "A Peaceful &",
+              "title2": "Calm Environment",
+              "description": "Take a look inside our quiet counseling rooms, relaxed seating areas, and caring center.",
+              "images": [
+                {
+                  "id": "gal1",
+                  "image": "/other/gallery-1.webp",
+                  "alt": "Quiet counseling room"
+                },
+                {
+                  "id": "gal2",
+                  "image": "/other/gallery-2.webp",
+                  "alt": "Comfortable seating space"
+                },
+                {
+                  "id": "gal3",
+                  "image": "/other/gallery-3.webp",
+                  "alt": "Peaceful therapy area"
+                },
+                {
+                  "id": "gal4",
+                  "image": "/other/gallery-4.webp",
+                  "alt": "Group support room"
+                },
+                {
+                  "id": "gal5",
+                  "image": "/other/gallery-5.webp",
+                  "alt": "Calm mindfulness space"
+                },
+                {
+                  "id": "gal6",
+                  "image": "/other/gallery-6.webp",
+                  "alt": "Relaxing consultation area"
+                }
+              ],
+              "button": {
+                "text": "View Our Center",
+                "url": "#gallery"
+              }
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "HealthCounselorTestimonials2": {
+              "subtitle": "REAL STORIES",
+              "title1": "What People Say",
+              "title2": "About CalmPath",
+              "description": "Read how simple talks and kind guidance helped our clients feel better and happier every day.",
+              "testimonials": [
+                {
+                  "id": "testi1",
+                  "name": "Priya Sharma",
+                  "location": "Client",
+                  "quote": "I used to feel worried all the time. Talking to the counselor here helped me breathe easily again. They are very kind and patient.",
+                  "rating": 5,
+                  "avatar": "/other/team-1.webp"
+                },
+                {
+                  "id": "testi2",
+                  "name": "Aman Verma",
+                  "location": "Client",
+                  "quote": "Going for counseling was the best decision I made. I learned simple ways to stop overthinking and I sleep much better now.",
+                  "rating": 5,
+                  "avatar": "/other/team-2.webp"
+                },
+                {
+                  "id": "testi3",
+                  "name": "Neha Gupta",
+                  "location": "Client",
+                  "quote": "The rooms are so peaceful and everyone treats you with warmth. I always leave my session feeling lighter and happier.",
+                  "rating": 5,
+                  "avatar": "/other/team-3.webp"
+                },
+                {
+                  "id": "testi4",
+                  "name": "Rajesh Kumar",
+                  "location": "Client",
+                  "quote": "I was having a tough time with work pressure and family issues. My counselor gave me very practical advice that really helped.",
+                  "rating": 5,
+                  "avatar": "/other/team-4.webp"
+                },
+                {
+                  "id": "testi5",
+                  "name": "Ananya Sen",
+                  "location": "Client",
+                  "quote": "They truly care about you. No complicated medical words, just real help and a safe space to share whatever is on your mind.",
+                  "rating": 5,
+                  "avatar": "/other/team-1.webp"
+                }
+              ]
+            }
+          }
+        },
+        "ContactUs": {
+          "variants": {
+            "HealthCounselorContactUs2": {
+              "subtitle": "CONTACT US",
+              "title1": "We Are Here",
+              "title2": "to Listen to You",
+              "description": "Have questions or want to talk to a counselor? Send us a message — our friendly team is always here for you.",
+              "cardSubtitle": "DIRECT CONTACT",
+              "cardTitle": "Talk to Us Directly",
+              "cardDescription": "Reach out by phone or email anytime. We are always ready to assist you.",
+              "contactInfo": {
+                "phoneTitle": "Phone",
+                "phone": "+1 000000000\nCall Us Anytime",
+                "emailTitle": "E-Mail",
+                "email": "info@xyz.com\nSend Us a Message",
+                "addressTitle": "Address",
+                "address": "123 Main St,\nNew York, NY, USA",
+                "hoursTitle": "Working Hours",
+                "hoursLine1": "Mon - Sat: 9:00 AM - 7:00 PM",
+                "hoursLine2": "Sunday: Closed"
+              },
+              "form": {
+                "title": "Send Us a Message",
+                "description": "Fill out this quick form and we will reach out to you within 24 hours.",
+                "buttonText": "Send Message",
+                "namePlaceholder": "Your Full Name",
+                "emailPlaceholder": "Your Email Address",
+                "phonePlaceholder": "Your Phone Number",
+                "subjectPlaceholder": "How Can We Help?",
+                "messagePlaceholder": "Write your message here..."
+              },
+              "image": "/other/service-1.webp",
+              "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.15830869428!2d-74.119763973046!3d40.69766374874431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "Header": "HealthCounselorHeader2",
+          "Footer": "Footer"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "key": "Hero",
+                "component": "HealthCounselorHero2"
+              },
+              {
+                "key": "AboutUs",
+                "component": "HealthCounselorAboutUs2"
+              },
+              {
+                "key": "Services",
+                "component": "HealthCounselorServices2"
+              },
+              {
+                "key": "WhyChooseUs",
+                "component": "HealthCounselorWhyChooseUs2"
+              },
+              {
+                "key": "Impact",
+                "component": "HealthCounselorCounter2"
+              },
+              {
+                "key": "Team",
+                "component": "HealthCounselorTeam2"
+              },
+              {
+                "key": "Gallery",
+                "component": "HealthCounselorGallery2"
+              },
+              {
+                "key": "Testimonials",
+                "component": "HealthCounselorTestimonials2"
+              },
+              {
+                "key": "ContactUs",
+                "component": "HealthCounselorContactUs2"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
